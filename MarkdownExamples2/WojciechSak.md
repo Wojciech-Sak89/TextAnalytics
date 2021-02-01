@@ -1,9 +1,13 @@
+Click on the image below to watch the video:
+[![](http://i3.ytimg.com/vi/SWYqp7iY_Tc/maxresdefault.jpg)](https://youtu.be/SWYqp7iY_Tc)
+
 Android | iOS | Windows
 ------- | :-------: | ---:
 Medium App for Android | Medium App for iOS | Medium App for Windows
 kjdkjskal, dsdsakjk, fdsdf, asdss, fdfdf, | kjdkjskal, dsdsakjk, fdsdf, asdss, fdfdf, dfdfd, | kjdkjskal, dsdsakjk, fdsdf, asdss,vvvvvvvvvvvvv
 [Play Store](https://play.google.com/store?gl=PL) | [App Store](https://www.apple.com/pl/itunes/) | [Windows Store](https://www.microsoft.com/pl-pl/store/apps)
 ![](https://cdn4.iconfinder.com/data/icons/logos-3/228/android-512.png) | ![iOS](https://cergntnu.files.wordpress.com/2016/10/web-ios-logo.jpg "Some text") | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg/870px-Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg.png)
+![](brain-logo.jpg) | ![iOS](eye-logo.jpg) | 
 
 
 

@@ -1,3 +1,58 @@
+hjkhjkjhjk `gfhfg` fhgfhfhf
+
+``` html
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta property="og:title" content="">
+  <meta property="og:type" content="">
+  <meta property="og:url" content="">
+  <meta property="og:image" content="">
+
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="apple-touch-icon" href="icon.png">
+  <!-- Place favicon.ico in the root directory -->
+
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/style.css">
+
+  <meta name="theme-color" content="#fafafa">
+</head>
+```
+
+``` csharp
+private void OnPropertyChanged(string propertyName)
+{
+   PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
+}
+```
+
+``` java
+public abstract class BaseObject {
+    // Coordinates
+    protected double x;
+    protected double y;
+    // Object radius
+    protected double radius;
+    // Indicates whether the object is alive
+    private boolean isAlive;
+
+    public BaseObject(double x, double y, double radius) {
+        this.x = x;
+        this.y = y;
+        this.radius = radius;
+        this.isAlive = true;
+    }
+
+    public double getX() {
+        return x;
+    }
+ }
+```
+
 Click on the image below to watch the video:
 [![](http://i3.ytimg.com/vi/SWYqp7iY_Tc/maxresdefault.jpg)](https://youtu.be/SWYqp7iY_Tc)
 
